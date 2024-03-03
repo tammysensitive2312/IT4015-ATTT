@@ -1,0 +1,30 @@
+//    Scanner sc = new Scanner(System.in);
+//        int n = sc.nextInt();
+//        int arr[] = new int[n];
+//        for (int x : arr) {
+//            x = sc.nextInt();
+//        }
+//        sc.nextLine();
+//            while (sc.hasNextLine()) {
+//                String query = sc.nextLine();
+//                switch (query) {
+//                    case "find-max" :
+//                        int max = Arrays.stream(arr).max().getAsInt();
+//                        System.out.println(max);
+//                        break;
+//                    case "find-min" :
+//                        int min = Arrays.stream(arr).min().getAsInt();
+//                        System.out.println(min);
+//                        break;
+//                    case "find-max-segment":
+//                        break;
+//                    case "find-min-segment":
+//                        break;
+//                    case "sum":
+//                        int sum = Arrays.stream(arr).sum();
+//                        System.out.println(sum);
+//                        break;
+//                    case "***":
+//                        break;
+//                }
+//        }
