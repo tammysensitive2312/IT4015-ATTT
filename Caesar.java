@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Caesar {
 
     public static String encrypt(String text, int shift, int mod) {
         StringBuilder result = new StringBuilder();
